@@ -1,8 +1,7 @@
 # Job Test: Firmware Developer
 
 ## Task Overview:
-As part of the hiring process for the Firmware Developer position at Nistantritech
-Private Limited, we have designed a practical task to evaluate your skills in firmware
+As part of the hiring process for the Firmware Developer position at Company, we have designed a practical task to evaluate your skills in firmware
 development, communication protocols, and IoT integration. This test involves reading
 sensor data using I2C or One-Wire communication and posting the data to ThingsBoard
 using MQTT.
