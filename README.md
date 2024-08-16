@@ -16,7 +16,7 @@ using MQTT.
 * Jumper Wires/Breadboard
 
 ### Circuit Digram
-![Circuit Digram](https://github.com)]
+![Circuit Digram](https://github.com/Eviltr0N/mqtt_assignment/raw/main/circuit.png)
 
 ### Libraries Used
 * Wifi.h
@@ -26,4 +26,4 @@ using MQTT.
 
 ### Arduino Code & Explanation
 
-[Click Here])(https://github.com)
+[Click Here])(https://github.com/Eviltr0N/mqtt_assignment/blob/main/temp_sensor_assign.ino)
