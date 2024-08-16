@@ -26,4 +26,4 @@ using MQTT.
 
 ### Arduino Code & Explanation
 
-[Click Here])(https://github.com/Eviltr0N/mqtt_assignment/blob/main/temp_sensor_assign.ino)
+[Click Here](https://github.com/Eviltr0N/mqtt_assignment/blob/main/temp_sensor_assign.ino)
